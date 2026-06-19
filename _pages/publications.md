@@ -9,7 +9,7 @@ author_profile: true
 
 **MiroBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions** <br>
 <ins>*Yaoning Yu*</ins>, Ye Yu, Haojing Luo, Haohan Wang <br>
-[[preprint](https://yyu6.github.io/yaoningyu/files/MiroBench_preprint.pdf) | [code](https://github.com/yyu6/MiroBench)]
+[[preprint](https://arxiv.org/abs/2606.14715) | [code](https://github.com/yyu6/MiroBench)]
 
 **Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation** <br>
 Ye Yu, Xiaopeng Yuan, Haibo Jin, Heming Liu, <ins>*Yaoning Yu*</ins>, Haohan Wang<br>
