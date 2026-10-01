@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Yaoning Yu"
 description              : &description "Personal website of Yaoning Yu, an AI engineer and researcher focused on LLM agents, multimodal models, and AI security."
 url                      : "https://yyu6.github.io"
-baseurl                  : "/yaoningyu"
-repository               : "yyu6/yaoningyu"
+baseurl                  : ""
+repository               : "yyu6/yyu6.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
