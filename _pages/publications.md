@@ -7,16 +7,13 @@ author_profile: true
 
 <p align="center"><strong>----2026----</strong></p>
 
-**MiroBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions** <br>
-<ins>*Yaoning Yu*</ins>, Ye Yu, Haojing Luo, Haohan Wang <br>
-[[preprint](https://arxiv.org/abs/2606.14715) | [code](https://github.com/yyu6/MiroBench)]
+**ThreadBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions** <br>
+<ins>*Yaoning Yu*</ins>, Ye Yu, John Sciarappo, Kai-min Chang, Yi-Chia Wang, Haojing Luo, Haohan Wang <br>
+[[preprint](https://arxiv.org/abs/2606.14715) | [code](https://github.com/yyu6/ThreadBench)]
 
 **Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation** <br>
 Ye Yu, Xiaopeng Yuan, Haibo Jin, Heming Liu, <ins>*Yaoning Yu*</ins>, Haohan Wang<br>
 [[preprint](https://arxiv.org/abs/2605.09315)]
-
-**AgenticNet: Rethinking Multi-agent System Architectures with LLM-based Networks**<br>
-Geyang Yu, Xiaopeng Yuan, Haibo Jin, Ye Yu, <ins>*Yaoning Yu*</ins>, Ke Chen, Haohan Wang<br>
 
 **Now You Hear Me: Audio Narrative Attacks Against Large Audio–Language Models** <br>
 Ye Yu, Haibo Jin, <ins>*Yaoning Yu*</ins>, Jun Zhuang, Haohan Wang<br>
