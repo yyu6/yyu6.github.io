@@ -25,4 +25,4 @@ My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MA
 * [TopCited](https://topcited.ai/): An AI search visibility and Generative Engine Optimization (GEO) platform that helps businesses understand and improve how they are discovered, cited, and recommended by AI systems such as ChatGPT and Gemini. TopCited combines AI visibility monitoring, competitive analysis, content optimization, and agent-driven execution to help brands become more discoverable in AI-generated answers.
 
 ### Services
-* **Reviewer:** NeurIPS 2026, ICLR 2027, ICAIF 2026, AAAI-27 Workshop
+* **Reviewer:** NeurIPS 2026, ICAIF 2026, FinFM 2027@AAAI, ICLR 2027
